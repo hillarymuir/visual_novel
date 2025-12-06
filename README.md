@@ -1,0 +1,3 @@
+This is an original fantasy visual novel I am creating with Ren'Py, inspired by games like I Was a Teenage Exocolonist and Stardew Valley.
+
+Synopsis: Your aunt has asked you to housesit for her in the college town of Dowsing. As soon as you arrive, you learn magic is real--but something is tainting the magic of this place...
